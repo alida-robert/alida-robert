@@ -1,25 +1,40 @@
-## Hi there 👋
-# I'm Alida R
-Data Science Intern | Aspiring Data Scientist | Python | Machine learning
+# 👋 Hi, I'm Alida R
 
-I'm a Computer Science graduate and an aspiring Data Scientist passionate about turning data into meaningful insights and building intelligent solutions.
+### Data Science Intern | Aspiring Data Scientist | AI/ML Enthusiast
 
-🌱 Currently learning Python, Data Science, Statistics, Machine Learning, and AI/ML.
+> **Learning. Building. Improving.**
 
-🎯 My goal is to grow into a skilled Data Scientist and AI/ML professional.
+I'm a **Computer Science graduate** currently **Data Science Intern at School of Skills**, exploring the world of **Data Science, Machine Learning, and Artificial Intelligence**.
 
-## 🛠️ Currently Learning
+I enjoy turning what I learn into practical projects and continuously improving my problem-solving and technical skills.
 
-- 🐍 Python
-- 📊 Data Analysis & Visualization
-- 🧮 Statistics & Mathematics
-- 🤖 Machine Learning
-- 🗄️ SQL
-- 🧠 Artificial Intelligence
+###  Currently Exploring
 
-## 📌 Interests
+🐍 **Python**  
+📊 **Data Analysis & Visualization**  
+📐 **Statistics & Mathematics**  
+🤖 **Machine Learning**  
+🗄️ **SQL**  
+🧠 **Artificial Intelligence**
 
-Data Science • Machine Learning • Artificial Intelligence • Problem Solving
+###  What I'm Building
+
+This profile is my learning journey — you'll find:
+
+- 🐍 Python projects & practice
+- 📊 Data analysis projects
+- 🤖 Machine learning experiments
+- 🧪 Small projects and experiments
+
+###  My Goal
+
+To grow from an aspiring data scientist into a **skilled Data Scientist / AI-ML professional** by learning continuously and building real-world projects.
+
+
+
+---
+
+
 
 <!--
 **alida-robert/alida-robert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
